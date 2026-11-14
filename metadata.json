@@ -1,0 +1,6 @@
+{
+  "name": "Usta — Sartaroshxona va Yozilish",
+  "description": "Soch olish, soch turmaklash va soqolni tartibga keltirish xizmatlariga onlayn yozilish tizimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
